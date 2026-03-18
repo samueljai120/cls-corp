@@ -25,16 +25,20 @@ Brain (Claude Sonnet) → Strategic Directives
 
 ## Products
 
-### Active (14)
+### Active (18)
 - **PropertyFlow** — MVP_BUILDING — PropertyFlow is an AI-driven property management platform designed to help real 
 - **Building integrations or complementary tools for dominant platforms like Shopify** — IDEA_CAPTURED — Building integrations or complementary tools for dominant platforms like Shopify
 - **Develop specialized automation tools that integrate deeply with Microsoft 365 se** — BETA_LAUNCH — Develop specialized automation tools that integrate deeply with Microsoft 365 se
+- **Focusing on underserved niches within e-commerce (e.g., specific product categor** — IDEA_CAPTURED — Focusing on underserved niches within e-commerce (e.g., specific product categor
+- **The demand for micro-SaaS solutions that are affordable, easy to implement, and ** — MARKET_RESEARCH — The demand for micro-SaaS solutions that are affordable, easy to implement, and 
 - **Tools simplifying store launch/management for new entrepreneurs in 2026.** — IDEA_CAPTURED — Tools simplifying store launch/management for new entrepreneurs in 2026.
+- **The continued growth of e-commerce and the increasing need for specialized tools** — IDEA_CAPTURED — The continued growth of e-commerce and the increasing need for specialized tools
 - **Identify gaps in existing Microsoft dev tools for specific automation tasks that** — MVP_BUILDING — Identify gaps in existing Microsoft dev tools for specific automation tasks that
 - **Build tools that simplify the process of connecting disparate Microsoft develope** — BETA_LAUNCH — Build tools that simplify the process of connecting disparate Microsoft develope
 - **Create solutions that enhance the developer experience on Windows, particularly ** — MVP_BUILDING — Create solutions that enhance the developer experience on Windows, particularly 
 - **CLS Booking** — GROWTH_TRACKING — AI-powered booking + CRM platform with voice AI receptionist for entertainment v
 - **Targeting niche communities within large ecosystems (e.g., Microsoft Game Dev, M** — MARKET_RESEARCH — Targeting niche communities within large ecosystems (e.g., Microsoft Game Dev, M
+- **Leveraging AI and machine learning to provide advanced optimization features.** — MARKET_RESEARCH — Leveraging AI and machine learning to provide advanced optimization features.
 - **Targeting specific, underserved segments revealed in content (e.g., error manage** — IDEA_CAPTURED — Targeting specific, underserved segments revealed in content (e.g., error manage
 - **Solutions targeting mobile commerce optimization and cross-device experiences.** — IDEA_CAPTURED — Solutions targeting mobile commerce optimization and cross-device experiences.
 - **AI integration for personalized, automated customer interactions (e.g., cart rec** — MARKET_RESEARCH — AI integration for personalized, automated customer interactions (e.g., cart rec
