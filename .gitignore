@@ -1,0 +1,15 @@
+
+.env
+.env.local
+.env.production
+node_modules/
+__pycache__/
+*.pyc
+.next/
+dist/
+build/
+data/outreach-sent/
+data/reply-tracker.json
+data/openrouter-costs.jsonl
+*.bak
+.DS_Store
