@@ -25,8 +25,9 @@ Brain (Claude Sonnet) → Strategic Directives
 
 ## Products
 
-### Active (12)
+### Active (14)
 - **PropertyFlow** — MVP_BUILDING — PropertyFlow is an AI-driven property management platform designed to help real 
+- **Building integrations or complementary tools for dominant platforms like Shopify** — IDEA_CAPTURED — Building integrations or complementary tools for dominant platforms like Shopify
 - **Develop specialized automation tools that integrate deeply with Microsoft 365 se** — BETA_LAUNCH — Develop specialized automation tools that integrate deeply with Microsoft 365 se
 - **Tools simplifying store launch/management for new entrepreneurs in 2026.** — IDEA_CAPTURED — Tools simplifying store launch/management for new entrepreneurs in 2026.
 - **Identify gaps in existing Microsoft dev tools for specific automation tasks that** — MVP_BUILDING — Identify gaps in existing Microsoft dev tools for specific automation tasks that
@@ -34,6 +35,7 @@ Brain (Claude Sonnet) → Strategic Directives
 - **Create solutions that enhance the developer experience on Windows, particularly ** — MVP_BUILDING — Create solutions that enhance the developer experience on Windows, particularly 
 - **CLS Booking** — GROWTH_TRACKING — AI-powered booking + CRM platform with voice AI receptionist for entertainment v
 - **Targeting niche communities within large ecosystems (e.g., Microsoft Game Dev, M** — MARKET_RESEARCH — Targeting niche communities within large ecosystems (e.g., Microsoft Game Dev, M
+- **Targeting specific, underserved segments revealed in content (e.g., error manage** — IDEA_CAPTURED — Targeting specific, underserved segments revealed in content (e.g., error manage
 - **Solutions targeting mobile commerce optimization and cross-device experiences.** — IDEA_CAPTURED — Solutions targeting mobile commerce optimization and cross-device experiences.
 - **AI integration for personalized, automated customer interactions (e.g., cart rec** — MARKET_RESEARCH — AI integration for personalized, automated customer interactions (e.g., cart rec
 - **Building intelligent automation atop existing CI/CD tools (AI-driven optimizatio** — IDEA_CAPTURED — Building intelligent automation atop existing CI/CD tools (AI-driven optimizatio
