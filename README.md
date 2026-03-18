@@ -25,13 +25,19 @@ Brain (Claude Sonnet) → Strategic Directives
 
 ## Products
 
-### Active (6)
+### Active (12)
 - **PropertyFlow** — MVP_BUILDING — PropertyFlow is an AI-driven property management platform designed to help real 
 - **Develop specialized automation tools that integrate deeply with Microsoft 365 se** — BETA_LAUNCH — Develop specialized automation tools that integrate deeply with Microsoft 365 se
+- **Tools simplifying store launch/management for new entrepreneurs in 2026.** — IDEA_CAPTURED — Tools simplifying store launch/management for new entrepreneurs in 2026.
 - **Identify gaps in existing Microsoft dev tools for specific automation tasks that** — MVP_BUILDING — Identify gaps in existing Microsoft dev tools for specific automation tasks that
 - **Build tools that simplify the process of connecting disparate Microsoft develope** — BETA_LAUNCH — Build tools that simplify the process of connecting disparate Microsoft develope
 - **Create solutions that enhance the developer experience on Windows, particularly ** — MVP_BUILDING — Create solutions that enhance the developer experience on Windows, particularly 
 - **CLS Booking** — GROWTH_TRACKING — AI-powered booking + CRM platform with voice AI receptionist for entertainment v
+- **Targeting niche communities within large ecosystems (e.g., Microsoft Game Dev, M** — MARKET_RESEARCH — Targeting niche communities within large ecosystems (e.g., Microsoft Game Dev, M
+- **Solutions targeting mobile commerce optimization and cross-device experiences.** — IDEA_CAPTURED — Solutions targeting mobile commerce optimization and cross-device experiences.
+- **AI integration for personalized, automated customer interactions (e.g., cart rec** — MARKET_RESEARCH — AI integration for personalized, automated customer interactions (e.g., cart rec
+- **Building intelligent automation atop existing CI/CD tools (AI-driven optimizatio** — IDEA_CAPTURED — Building intelligent automation atop existing CI/CD tools (AI-driven optimizatio
+- **Creating tools that simplify the adoption of emerging 2026 trends (Kubernetes-na** — IDEA_CAPTURED — Creating tools that simplify the adoption of emerging 2026 trends (Kubernetes-na
 
 ### Killed (0) — ideas that didn't survive market research
 
