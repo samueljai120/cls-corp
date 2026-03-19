@@ -25,13 +25,14 @@ Brain (Claude Sonnet) → Strategic Directives
 
 ## Products
 
-### Active (19)
+### Active (22)
 - **PropertyFlow** — MVP_BUILDING — PropertyFlow is an AI-driven property management platform designed to help real 
 - **Building integrations or complementary tools for dominant platforms like Shopify** — IDEA_CAPTURED — Building integrations or complementary tools for dominant platforms like Shopify
 - **Develop specialized automation tools that integrate deeply with Microsoft 365 se** — BETA_LAUNCH — Develop specialized automation tools that integrate deeply with Microsoft 365 se
 - **Focusing on underserved niches within e-commerce (e.g., specific product categor** — IDEA_CAPTURED — Focusing on underserved niches within e-commerce (e.g., specific product categor
 - **Leveraging AI for hyper-personalized storefronts or merchandising, moving beyond** — IDEA_CAPTURED — Leveraging AI for hyper-personalized storefronts or merchandising, moving beyond
 - **The demand for micro-SaaS solutions that are affordable, easy to implement, and ** — MARKET_RESEARCH — The demand for micro-SaaS solutions that are affordable, easy to implement, and 
+- **Developing predictive analytics for emerging 2026+ e-commerce trends** — IDEA_CAPTURED — Developing predictive analytics for emerging 2026+ e-commerce trends
 - **Tools simplifying store launch/management for new entrepreneurs in 2026.** — IDEA_CAPTURED — Tools simplifying store launch/management for new entrepreneurs in 2026.
 - **Building for emerging ecommerce models (D2C, subscription, hybrid) highlighted i** — MARKET_RESEARCH — Building for emerging ecommerce models (D2C, subscription, hybrid) highlighted i
 - **The continued growth of e-commerce and the increasing need for specialized tools** — IDEA_CAPTURED — The continued growth of e-commerce and the increasing need for specialized tools
@@ -40,11 +41,13 @@ Brain (Claude Sonnet) → Strategic Directives
 - **Building a micro-SaaS that leverages AI for niche e-commerce models or specific ** — MARKET_RESEARCH — Building a micro-SaaS that leverages AI for niche e-commerce models or specific 
 - **Create solutions that enhance the developer experience on Windows, particularly ** — MVP_BUILDING — Create solutions that enhance the developer experience on Windows, particularly 
 - **CLS Booking** — GROWTH_TRACKING — AI-powered booking + CRM platform with voice AI receptionist for entertainment v
+- **Creating educational/onboarding tools for new merchants** — IDEA_CAPTURED — Creating educational/onboarding tools for new merchants
 - **Targeting niche communities within large ecosystems (e.g., Microsoft Game Dev, M** — MARKET_RESEARCH — Targeting niche communities within large ecosystems (e.g., Microsoft Game Dev, M
 - **Targeting specific, underserved segments revealed in content (e.g., error manage** — IDEA_CAPTURED — Targeting specific, underserved segments revealed in content (e.g., error manage
 - **Solutions targeting mobile commerce optimization and cross-device experiences.** — MARKET_RESEARCH — Solutions targeting mobile commerce optimization and cross-device experiences.
 - **Building intelligent automation atop existing CI/CD tools (AI-driven optimizatio** — IDEA_CAPTURED — Building intelligent automation atop existing CI/CD tools (AI-driven optimizatio
 - **Creating tools that simplify the adoption of emerging 2026 trends (Kubernetes-na** — IDEA_CAPTURED — Creating tools that simplify the adoption of emerging 2026 trends (Kubernetes-na
+- **Building specialized AI tools for cart recovery and conversion** — IDEA_CAPTURED — Building specialized AI tools for cart recovery and conversion
 
 ### Killed (0) — ideas that didn't survive market research
 
