@@ -25,26 +25,24 @@ Brain (Claude Sonnet) → Strategic Directives
 
 ## Products
 
-### Active (21)
+### Active (19)
 - **PropertyFlow** — MVP_BUILDING — PropertyFlow is an AI-driven property management platform designed to help real 
 - **Building integrations or complementary tools for dominant platforms like Shopify** — IDEA_CAPTURED — Building integrations or complementary tools for dominant platforms like Shopify
 - **Develop specialized automation tools that integrate deeply with Microsoft 365 se** — BETA_LAUNCH — Develop specialized automation tools that integrate deeply with Microsoft 365 se
 - **Focusing on underserved niches within e-commerce (e.g., specific product categor** — IDEA_CAPTURED — Focusing on underserved niches within e-commerce (e.g., specific product categor
 - **Leveraging AI for hyper-personalized storefronts or merchandising, moving beyond** — IDEA_CAPTURED — Leveraging AI for hyper-personalized storefronts or merchandising, moving beyond
-- **Serving the growing long-tail of international merchants needing localization/gl** — IDEA_CAPTURED — Serving the growing long-tail of international merchants needing localization/gl
 - **The demand for micro-SaaS solutions that are affordable, easy to implement, and ** — MARKET_RESEARCH — The demand for micro-SaaS solutions that are affordable, easy to implement, and 
 - **Tools simplifying store launch/management for new entrepreneurs in 2026.** — IDEA_CAPTURED — Tools simplifying store launch/management for new entrepreneurs in 2026.
 - **Building for emerging ecommerce models (D2C, subscription, hybrid) highlighted i** — MARKET_RESEARCH — Building for emerging ecommerce models (D2C, subscription, hybrid) highlighted i
 - **The continued growth of e-commerce and the increasing need for specialized tools** — IDEA_CAPTURED — The continued growth of e-commerce and the increasing need for specialized tools
 - **Identify gaps in existing Microsoft dev tools for specific automation tasks that** — MVP_BUILDING — Identify gaps in existing Microsoft dev tools for specific automation tasks that
 - **Build tools that simplify the process of connecting disparate Microsoft develope** — BETA_LAUNCH — Build tools that simplify the process of connecting disparate Microsoft develope
+- **Building a micro-SaaS that leverages AI for niche e-commerce models or specific ** — MARKET_RESEARCH — Building a micro-SaaS that leverages AI for niche e-commerce models or specific 
 - **Create solutions that enhance the developer experience on Windows, particularly ** — MVP_BUILDING — Create solutions that enhance the developer experience on Windows, particularly 
 - **CLS Booking** — GROWTH_TRACKING — AI-powered booking + CRM platform with voice AI receptionist for entertainment v
 - **Targeting niche communities within large ecosystems (e.g., Microsoft Game Dev, M** — MARKET_RESEARCH — Targeting niche communities within large ecosystems (e.g., Microsoft Game Dev, M
-- **Leveraging AI and machine learning to provide advanced optimization features.** — MARKET_RESEARCH — Leveraging AI and machine learning to provide advanced optimization features.
 - **Targeting specific, underserved segments revealed in content (e.g., error manage** — IDEA_CAPTURED — Targeting specific, underserved segments revealed in content (e.g., error manage
-- **Solutions targeting mobile commerce optimization and cross-device experiences.** — IDEA_CAPTURED — Solutions targeting mobile commerce optimization and cross-device experiences.
-- **AI integration for personalized, automated customer interactions (e.g., cart rec** — MARKET_RESEARCH — AI integration for personalized, automated customer interactions (e.g., cart rec
+- **Solutions targeting mobile commerce optimization and cross-device experiences.** — MARKET_RESEARCH — Solutions targeting mobile commerce optimization and cross-device experiences.
 - **Building intelligent automation atop existing CI/CD tools (AI-driven optimizatio** — IDEA_CAPTURED — Building intelligent automation atop existing CI/CD tools (AI-driven optimizatio
 - **Creating tools that simplify the adoption of emerging 2026 trends (Kubernetes-na** — IDEA_CAPTURED — Creating tools that simplify the adoption of emerging 2026 trends (Kubernetes-na
 
